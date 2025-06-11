@@ -1,0 +1,4 @@
+# .env file
+SESSION_ID="ZOKOU-MD-WHATSAPP-BOT=>b7816ac322    # Required
+PREFIX="!"                        # Command character
+OWNER_NUMBER="41508082     # Your WhatsApp number
